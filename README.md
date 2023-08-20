@@ -7,6 +7,7 @@ Security audits, findings, competitions, reviews, contributions, participations,
 * [Sherlock - MatricksDeCoder](https://audits.sherlock.xyz/judging-leaderboard)
 * [DetectBox - ZedBlockchain](https://app.detectbox.io/profile/ZedBlockchain)
 * [HatsFinance - "zvinodashe.eth" ](https://app.hats.finance/bug-bounties)
+* [Twitter - @Zed_Blockchain](https://twitter.com/Zed_Blockchain)
 
 ### August 2023 
  | Platform     | Project        | Ranking | High   | Medium | Low    | QA/Informational | Gas    | Earnings |
