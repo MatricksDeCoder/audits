@@ -3,7 +3,7 @@ Security audits, findings, competitions, reviews, contributions, participations,
 
 ### Profiles 
 * <a href="https://code4rena.com/@MatricksDeCoder" target='_blank' >Code4rena - MatricksDeCoder</a>
-* <a href="https://www.codehawks.com/profile/clk6kgukh0008ld088n5wns9l target='_blank' >CodeHawks - ZedBlockchain</a>
+* <a href="https://www.codehawks.com/profile/clk6kgukh0008ld088n5wns9l" target='_blank' >CodeHawks - ZedBlockchain</a>
 * <a href= "https://audits.sherlock.xyz/judging-leaderboard" >Sherlock - MatricksDeCoder</a>
 * [DetectBox - ZedBlockchain](https://app.detectbox.io/profile/ZedBlockchain)
 * [HatsFinance - "zvinodashe.eth" ](https://app.hats.finance/bug-bounties)
