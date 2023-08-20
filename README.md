@@ -16,4 +16,4 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | Code4rena    | TopiocaDAO        |         |        |        |        |        |        |          |                             |
  | Code4rena    | GoodEntry         |         |        |        |        |        |        |          |                             |
  | Code4rena    | Arbitrum Council  |         |        |        |        |        |        |          |      Submitted QA/Gas Only  |
- | Code4rena    | Arbitrum Council  |         |        |        |        |        |        |          |      Submitted QA/Gas Only                        |
+ | Code4rena    | veRWA             |         |        |        |        |        |        |          |      Submitted QA/Gas Only  |
