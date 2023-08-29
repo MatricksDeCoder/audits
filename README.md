@@ -10,13 +10,13 @@ Security audits, findings, competitions, reviews, contributions, participations,
 * [Twitter - @Zed_Blockchain](https://twitter.com/Zed_Blockchain)
 
 ### August 2023 
- | Platform                | Project           | Ranked | High   | Medium | Low    | QA     | Gas    | Earnings | Notes                        |
- |  :-----:                | :-----:           |:-----:  |:-----: |:-----: |:-----: | :-----:| :-----:| :-----:  | :-----:                     |
- | Code4rena               | PoolTogether      |     15  |        |    1   |        |        |        | $476.00  |                             |
- | Beedle                  | CodeHawks         |     33  |   2    |    2   |  5     |        |        | $130.69  |    QA+Gas Findings(21)      |
- | Foundry DeFi Stablecoin | CodeHawks         |         |        |        |        |        |        |          |                             |
- | Escrow                  | CodeHawks         |         |        |        |        |        |        |          |                             |
- | Code4rena               | TopiocaDAO        |         |        |        |        |        |        |          |                             |
- | Code4rena               | GoodEntry         |         |        |        |        |        |        |          |                             |
- | Code4rena               | Arbitrum Council  |         |        |        |        |        |        |          |      Submitted QA/Gas Only  |
- | Code4rena               | veRWA             |         |        |        |        |        |        |          |      Submitted QA/Gas Only  |
+ | Platform                | Project           | Ranked | High   | Medium | Low     | QA     | Gas    | Earnings  | Notes                       |
+ |  :-----:                | :-----:           |:-----:  |:-----: |:-----: |:-----: | :-----:| :-----:| :-----:   |  :-----:                    |
+ | Code4rena               | PoolTogether      |     15  |        |    1   |        |        |        | $476.00   |                             |
+ | Beedle                  | CodeHawks         |     33  |   2    |    2   |  5     |        |        | $130.69   |    QA+Gas Findings(21)      |
+ | Foundry DeFi Stablecoin | CodeHawks         |         |        |        |        |        |        |           |                             |
+ | Escrow                  | CodeHawks         |         |        |        |        |        |        |           |                             |
+ | Code4rena               | TopiocaDAO        |         |        |        |        |        |        |           |                             |
+ | Code4rena               | GoodEntry         |         |        |        |        |        |        |           |                             |
+ | Code4rena               | Arbitrum Council  |         |        |        |        |        |        |           |      Submitted QA/Gas Only  |
+ | Code4rena               | veRWA             |         |        |        |        |        |        |           |      Submitted QA/Gas Only  |
