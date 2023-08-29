@@ -13,7 +13,7 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | Platform     | Project           | Ranked | High   | Medium | Low    | QA     | Gas    | Earnings | Notes                        |
  |  :-----:     | :-----:           |:-----:  |:-----: |:-----: |:-----: | :-----:| :-----:| :-----:  | :-----:                     |
  | Code4rena    | PoolTogether      |     15  |        |    1   |        |        |        | $476.00  |                             |
- | Beedle       | CodeHawks         |     28  |   2    |    2   |  5     |        |        | $144.47  |    QA+Gas Findings(21)      |
+ | Beedle       | CodeHawks         |     28  |   2    |    2   |  5     |        |        | $130.69  |    QA+Gas Findings(21)      |
  | Code4rena    | TopiocaDAO        |         |        |        |        |        |        |          |                             |
  | Code4rena    | GoodEntry         |         |        |        |        |        |        |          |                             |
  | Code4rena    | Arbitrum Council  |         |        |        |        |        |        |          |      Submitted QA/Gas Only  |
