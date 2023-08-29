@@ -11,7 +11,7 @@ Security audits, findings, competitions, reviews, contributions, participations,
 
 ### August 2023 
  | Platform        | Project                | Ranked | High   | Medium | Low     | QA     | Gas    | Earnings  | Notes                       |
- |  :-----:        | :-----:                |:-----:  |:-----: |:-----: |:-----: | :-----:| :-----:| :-----:   |  :-----:                    |
+ |  :-----:        | :-----:                |:-----:  |:-----: |:-----: |:-----: | :-----:| :-----:| :-----:   | :-----:                     |
  | Code4rena       | PoolTogether           |     15  |        |    1   |        |        |        | $476.00   |                             |
  | CodeHawks       | Beedle                 |     33  |   2    |    2   |  5     |        |        | $130.69   |    QA+Gas Findings(21)      |
  | CodeHawks       | Foundry DeFi Stablecoin|         |        |        |        |        |        |           |                             |
