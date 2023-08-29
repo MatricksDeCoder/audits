@@ -24,5 +24,6 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | Sherlock        | Blueberry(Judging)     |         |        |        |        |        |        |           |                Judge        |
  | Sherlock        | Perennial              |         |        |        |        |        |        |           |                             |
  | Sherlock        | Cooler Update          |         |        |        |        |        |        |           |                             |
+ | Sherlock        | Cooler Update(Judging) |         |        |        |        |        |        |           |                             |
  | Code4rena       | Shell Protocol         |         |        |        |        |        |        |           |                             |
  | Code4rena       | Dopex                  |         |        |        |        |        |        |           |                             |
