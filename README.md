@@ -27,3 +27,5 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | Sherlock        | Cooler Update(Judging) |         |        |        |        |           |                             |
  | Code4rena       | Shell Protocol         |         |        |        |        |           |                             |
  | Code4rena       | Dopex                  |         |        |        |        |           |                             |
+ | Sherlock        | Tokemak(Judging)       |         |        |        |        |           |                             |
+ |                 | TOTALS                 |         |  2     |  4     |   5    |     $0     |                             |
