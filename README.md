@@ -10,20 +10,20 @@ Security audits, findings, competitions, reviews, contributions, participations,
 * [Twitter - @Zed_Blockchain](https://twitter.com/Zed_Blockchain)
 
 ### August 2023 
- | Platform        | Project                | Ranked | High   | Medium | Low     | QA     | Gas    | Earnings  | Notes                       |
- |  :-----:        | :-----:                |:-----:  |:-----: |:-----: |:-----: | :-----:| :-----:| :-----:   | :-----:                     |
- | Code4rena       | PoolTogether           |     15  |        |    1   |        |        |        | $476.00   |                             |
- | CodeHawks       | Beedle                 |     33  |   2    |    2   |  5     |        |        | $130.69   |    QA+Gas Findings(21)      |
- | CodeHawks       | Foundry DeFi Stablecoin|         |        |        |        |        |        |           |                             |
- | CodeHawks       | Escrow                 |         |        |        |        |        |        |           |                             |
- | CodeHawks       | Sparkn                 |         |        |        |        |        |        |           |                             |
- | Code4rena       | TopiocaDAO             |         |        |        |        |        |        |           |                             |
- | Code4rena       | GoodEntry              |    77   |        |    1   |        |        |        | $12.88    |                             |
- | Code4rena       | Arbitrum Council       |         |        |        |        |        |        |           |      Submitted QA/Gas Only  |
- | Code4rena       | veRWA                  |         |        |        |        |        |        |           |      Submitted QA/Gas Only  |
- | Sherlock        | Blueberry(Judging)     |         |        |        |        |        |        |           |                Judge        |
- | Sherlock        | Perennial              |         |        |        |        |        |        |           |                             |
- | Sherlock        | Cooler Update          |         |        |        |        |        |        |           |                             |
- | Sherlock        | Cooler Update(Judging) |         |        |        |        |        |        |           |                             |
- | Code4rena       | Shell Protocol         |         |        |        |        |        |        |           |                             |
- | Code4rena       | Dopex                  |         |        |        |        |        |        |           |                             |
+ | Platform        | Project                | Ranked | High   | Medium | Low     | Earnings  | Notes                       |
+ |  :-----:        | :-----:                |:-----:  |:-----: |:-----: |:-----: | :-----:   | :-----:                     |
+ | Code4rena       | PoolTogether           |     15  |        |    1   |        | $476.00   |                             |
+ | CodeHawks       | Beedle                 |     33  |   2    |    2   |  5     | $130.69   |    QA+Gas Findings(21)      |
+ | CodeHawks       | Foundry DeFi Stablecoin|         |        |        |        |           |                             |
+ | CodeHawks       | Escrow                 |         |        |        |        |           |                             |
+ | CodeHawks       | Sparkn                 |         |        |        |        |           |                             |
+ | Code4rena       | TopiocaDAO             |         |        |        |        |           |                             |
+ | Code4rena       | GoodEntry              |    77   |        |    1   |        | $12.88    |                             |
+ | Code4rena       | Arbitrum Council       |         |        |        |        |           |      Submitted QA/Gas Only  |
+ | Code4rena       | veRWA                  |         |        |        |        |           |      Submitted QA/Gas Only  |
+ | Sherlock        | Blueberry(Judging)     |         |        |        |        |           |                Judge        |
+ | Sherlock        | Perennial              |         |        |        |        |           |                             |
+ | Sherlock        | Cooler Update          |         |        |        |        |           |                             |
+ | Sherlock        | Cooler Update(Judging) |         |        |        |        |           |                             |
+ | Code4rena       | Shell Protocol         |         |        |        |        |           |                             |
+ | Code4rena       | Dopex                  |         |        |        |        |           |                             |
