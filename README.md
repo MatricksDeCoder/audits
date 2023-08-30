@@ -18,7 +18,7 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | CodeHawks       | Escrow                 |         |        |        |        |        |        |           |                             |
  | CodeHawks       | Sparkn                 |         |        |        |        |        |        |           |                             |
  | Code4rena       | TopiocaDAO             |         |        |        |        |        |        |           |                             |
- | Code4rena       | GoodEntry              |         |        |        |        |        |        |           |                             |
+ | Code4rena       | GoodEntry              |    77   |        |    1   |        |        |        | $12.88    |                             |
  | Code4rena       | Arbitrum Council       |         |        |        |        |        |        |           |      Submitted QA/Gas Only  |
  | Code4rena       | veRWA                  |         |        |        |        |        |        |           |      Submitted QA/Gas Only  |
  | Sherlock        | Blueberry(Judging)     |         |        |        |        |        |        |           |                Judge        |
