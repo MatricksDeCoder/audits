@@ -10,18 +10,18 @@ Security audits, findings, competitions, reviews, contributions, participations,
 * [Twitter - @Zed_Blockchain](https://twitter.com/Zed_Blockchain)
 
 ### August 2023 
- | Platform        | Project                | Ranked | High   | Medium | Low     | Earnings  | Notes                       |
- |  :-----:        | :-----:                |:-----:  |:-----: |:-----: |:-----: | :-----:   | :-----:                     |
- | Code4rena       | PoolTogether           |     15  |        |    1   |        | $476.00   |                             |
- | CodeHawks       | Beedle                 |     33  |   2    |    2   |  5     | $130.69   |    QA+Gas Findings(21)      |
- | CodeHawks       | Foundry DeFi Stablecoin|         |        |        |        |           |                             |
- | CodeHawks       | Escrow                 |         |        |        |        |           |                             |
- | CodeHawks       | Sparkn                 |         |        |        |        |           |                             |
+ | Platform        | Project                | Ranked | High   | Medium | Low     | Earnings  | Notes                               |
+ |  :-----:        | :-----:                |:-----:  |:-----: |:-----: |:-----: | :-----:   | :-----:                             |
+ | Code4rena       | PoolTogether           |     15  |        |    1   |        | $476.00   |                                     |
+ | CodeHawks       | Beedle                 |     33  |   2    |    2   |  5     | $130.69   |    QA+Gas Findings(21)              |
+ | CodeHawks       | Foundry DeFi Stablecoin|         |        |        |        |           |                                     |
+ | CodeHawks       | Escrow                 |         |        |        |        |           |                                     |
+ | CodeHawks       | Sparkn                 |         |        |        |        |           |                                     |
  | Code4rena       | TopiocaDAO             |         |        |        |        |           |          |
- | Code4rena       | GoodEntry              |    77   |        |    1   |        | $12.88    |  B Grade QA Report          |
- | Code4rena       | Arbitrum Council       |         |        |        |        |           |      Submitted QA/Gas Only  |
- | Code4rena       | veRWA                  |    77   |        |        |        | $9.82     |      A Graded QA Report   |
- | Sherlock        | Blueberry(Judging)     |         |        |        |        |           |                Judge        |
+ | Code4rena       | GoodEntry              |    77   |        |    1   |        | $12.88    |  B Grade QA Report                  |
+ | Code4rena       | Arbitrum Council       |         |        |        |        |           |      Submitted QA/Gas Only          |
+ | Code4rena       | veRWA                  |    77   |        |        |        | $9.82     |      A Graded QA Report             |
+ | Sherlock        | Blueberry(Judging)     |         |        |        |        |           | 1st time Judging, had limited time  |
  | Sherlock        | Perennial              |         |        |        |        |           |                             |
  | Sherlock        | Cooler Update          |         |        |        |        |           |                             |
  | Sherlock        | Cooler Update(Judging) |         |        |        |        |           |                             |
