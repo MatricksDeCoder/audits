@@ -17,10 +17,10 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | CodeHawks       | Foundry DeFi Stablecoin|         |        |        |        |           |                             |
  | CodeHawks       | Escrow                 |         |        |        |        |           |                             |
  | CodeHawks       | Sparkn                 |         |        |        |        |           |                             |
- | Code4rena       | TopiocaDAO             |         |        |        |        |           |                             |
- | Code4rena       | GoodEntry              |    77   |        |    1   |        | $12.88    |                             |
+ | Code4rena       | TopiocaDAO             |         |        |        |        |           |          |
+ | Code4rena       | GoodEntry              |    77   |        |    1   |        | $12.88    |  B Grade QA Report          |
  | Code4rena       | Arbitrum Council       |         |        |        |        |           |      Submitted QA/Gas Only  |
- | Code4rena       | veRWA                  |         |        |        |        |           |      Submitted QA/Gas Only  |
+ | Code4rena       | veRWA                  |    77   |        |        |        | $9.82     |      A Graded QA Report   |
  | Sherlock        | Blueberry(Judging)     |         |        |        |        |           |                Judge        |
  | Sherlock        | Perennial              |         |        |        |        |           |                             |
  | Sherlock        | Cooler Update          |         |        |        |        |           |                             |
