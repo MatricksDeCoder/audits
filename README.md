@@ -19,7 +19,7 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | CodeHawks       | Sparkn                 |         |        |        |        |           |                                     |
  | Code4rena       | TopiocaDAO             |         |        |        |        |           |          |
  | Code4rena       | GoodEntry              |    77   |        |    1   |        | $12.88    |  B Grade QA Report                  |
- | Code4rena       | Arbitrum Council       |         |        |        |        |           |      Submitted QA/Gas Only          |
+ | Code4rena       | Arbitrum Council       |         |        |        |        | $0.00     |      Submitted QA/Gas Only          |
  | Code4rena       | veRWA                  |    77   |        |        |        | $9.82     |      A Graded QA Report             |
  | Sherlock        | Blueberry(Judging)     |         |        |        |        |           | 1st time, started late  |
  | Sherlock        | Perennial              |         |        |        |        |           |                             |
