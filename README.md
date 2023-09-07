@@ -13,9 +13,9 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | Platform        | Project                | Ranked | High   | Medium | Low     | Earnings  | Notes                               |
  |  :-----:        | :-----:                |:-----:  |:-----: |:-----: |:-----: | :-----:   | :-----:                             |
  | Code4rena       | PoolTogether           |     15  |        |    1   |        | $476.00   |                                     |
- | CodeHawks       | Beedle                 |     33  |   2    |    2   |  5     | $130.69   |    QA+Gas Findings(21)              |
- | CodeHawks       | Foundry DeFi Stablecoin|         |        |        |        |           |                                     |
- | CodeHawks       | Escrow                 |         |        |        |        |           |                                     |
+ | CodeHawks       | Beedle                 |     33  |   2    |    2   |  5     | $130.69   |   QA+Gas Findings(21)              |
+ | CodeHawks       | Foundry DeFi Stablecoin|    126  |        |    1   |  1     | $54.92    |   QA+Gas Findings(6)                |
+ | CodeHawks       | Escrow                 |     8   |        |    2   |  1     | $$2100.92 |   QA+Gas Findings(4)                |
  | CodeHawks       | Sparkn                 |         |        |        |        |           |                                     |
  | Code4rena       | TopiocaDAO             |         |        |        |        |           |          |
  | Code4rena       | GoodEntry              |    77   |        |    1   |        | $12.88    |  B Grade QA Report                  |
