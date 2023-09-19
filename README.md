@@ -15,8 +15,8 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | Code4rena       | PoolTogether           |     15  |        |    1   |        | $476.00   |                                     |
  | CodeHawks       | Beedle                 |     33  |   2    |    2   |  5     | $130.69   |   QA+Gas Findings(21)              |
  | CodeHawks       | Foundry DeFi Stablecoin|    126  |        |    1   |  1     | $54.92    |   QA+Gas Findings(6)                |
- | CodeHawks       | Escrow                 |     8   |        |    2   |  1     | $2100.92 |   QA+Gas Findings(4)                |
- | CodeHawks       | Sparkn                 |         |        |        |        |           |                                     |
+ | CodeHawks       | Escrow                 |     8   |        |    2   |  1     | $2100.92  |   QA+Gas Findings(4)                |
+ | CodeHawks       | Sparkn                 |     97  |        |        |  4     |  $28.87   |                                     |
  | Code4rena       | TopiocaDAO             |         |        |        |        |           |          |
  | Code4rena       | GoodEntry              |    77   |        |    1   |        | $12.88    |  B Grade QA Report                  |
  | Code4rena       | Arbitrum Council       |         |        |        |        | $0.00     |      Submitted QA/Gas Only          |
@@ -25,7 +25,7 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | Sherlock        | Perennial              |         |        |        |        |           |                             |
  | Sherlock        | Cooler Update          |         |        |        |        |           |                             |
  | Sherlock        | Cooler Update(Judging) |         |        |        |        |           |  2nd time, started late                          |
- | Code4rena       | Shell Protocol         |         |        |        |        |           |                             |
+ | Code4rena       | Shell Protocol         |   35    |        |        |        |   $9.16   |          B Grade QA Report                   |
  | Code4rena       | Dopex                  |         |        |        |        |           |                             |
  | Sherlock        | Tokemak(Judging)       |         |        |        |        |           |                             |
  |                 | TOTALS                 |         |  2     |  4     |   5    |     $0     |                             |
