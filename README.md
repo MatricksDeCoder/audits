@@ -21,11 +21,9 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | Code4rena       | GoodEntry              |    77   |        |    1   |        | $12.88    |  B Grade QA Report                  |
  | Code4rena       | Arbitrum Council       |         |        |        |        | $0.00     |      Submitted QA/Gas Only          |
  | Code4rena       | veRWA                  |    77   |        |        |        | $9.82     |      A Graded QA Report             |
- | Sherlock        | Blueberry(Judging)     |         |        |        |        |           | 1st time, started late  |
- | Sherlock        | Perennial              |         |        |        |        |           |                             |
- | Sherlock        | Cooler Update          |         |        |        |        |           |                             |
- | Sherlock        | Cooler Update(Judging) |         |        |        |        |           |  2nd time, started late                          |
- | Code4rena       | Shell Protocol         |   35    |        |        |        |   $9.16   |          B Grade QA Report                   |
+ | Sherlock        | Perennial              |         |        |        |        |   $0      |                             |
+ | Sherlock        | Cooler Update          |         |        |        |        |   $0      |                             |
+ | Code4rena       | Shell Protocol         |   35    |        |        |        |   $9.16   |          B Grade QA Report  |
  | Code4rena       | Dopex                  |         |        |        |        |           |                             |
  | Sherlock        | Tokemak(Judging)       |         |        |        |        |           |                             |
  |                 | TOTALS                 |         |  2     |  4     |   5    |     $0     |                             |
