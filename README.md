@@ -19,7 +19,6 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | CodeHawks       | Sparkn                 |     97  |        |        |  4     |  $28.87   |                                     |
  | Code4rena       | TopiocaDAO             |         |        |        |        |           |          |
  | Code4rena       | GoodEntry              |    77   |        |    1   |        | $12.88    |  B Grade QA Report                  |
- | Code4rena       | Arbitrum Council       |         |        |        |        | $0.00     |      Submitted QA/Gas Only          |
  | Code4rena       | veRWA                  |    77   |        |        |        | $9.82     |      A Graded QA Report             |
  | Sherlock        | Perennial              |         |        |        |        |   $0      |                             |
  | Sherlock        | Cooler Update          |         |        |        |        |   $0      |                             |
