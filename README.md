@@ -23,6 +23,4 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | Sherlock        | Perennial              |         |        |        |        |   $0      |                             |
  | Sherlock        | Cooler Update          |         |        |        |        |   $0      |                             |
  | Code4rena       | Shell Protocol         |   35    |        |        |        |   $9.16   |          B Grade QA Report  |
- | Code4rena       | Dopex                  |         |        |        |        |           |                             |
- | Sherlock        | Tokemak(Judging)       |         |        |        |        |           |                             |
  |                 | TOTALS                 |         |  2     |  4     |   5    |     $0     |                             |
