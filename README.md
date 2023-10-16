@@ -17,10 +17,7 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | CodeHawks       | Foundry DeFi Stablecoin|    126  |        |    1   |  1     | $54.92    |   QA+Gas Findings(6)                |
  | CodeHawks       | Escrow                 |     8   |        |    2   |  1     | $2100.92  |   QA+Gas Findings(4)                |
  | CodeHawks       | Sparkn                 |     97  |        |        |  4     |  $28.87   |                                     |
- | Code4rena       | TopiocaDAO             |         |        |        |        |           |          |
  | Code4rena       | GoodEntry              |    77   |        |    1   |        | $12.88    |  B Grade QA Report                  |
  | Code4rena       | veRWA                  |    77   |        |        |        | $9.82     |      A Graded QA Report             |
- | Sherlock        | Perennial              |         |        |        |        |   $0      |                             |
- | Sherlock        | Cooler Update          |         |        |        |        |   $0      |                             |
  | Code4rena       | Shell Protocol         |   35    |        |        |        |   $9.16   |          B Grade QA Report  |
  |                 | TOTALS                 |         |  2     |  4     |   5    |     $0     |                             |
