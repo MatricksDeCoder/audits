@@ -20,4 +20,4 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | Code4rena       | GoodEntry              |    77   |        |    1   |        | $12.88    |  B Grade QA Report                  |
  | Code4rena       | veRWA                  |    77   |        |        |        | $9.82     |      A Graded QA Report             |
  | Code4rena       | Shell Protocol         |   35    |        |        |        |   $9.16   |          B Grade QA Report  |
- |                 | TOTALS                 |         |  2     |  4     |   5    |     $0     |                             |
+ |                 | TOTALS                 |         |  2     |  7     |   11    |     $0     |                             |
