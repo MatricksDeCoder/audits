@@ -10,7 +10,7 @@ Security audits, findings, competitions, reviews, contributions, participations,
 * [Twitter - @Zed_Blockchain](https://twitter.com/Zed_Blockchain)
 
 ### August 2023 
- | Platform        | Project                | Ranked | High   | Medium | Low     | Earnings  | Notes                               |
+ | Platform        | Project                | Ranked In Contest | High   | Medium | Low     | Earnings  | Notes                               |
  |  :-----:        | :-----:                |:-----:  |:-----: |:-----: |:-----: | :-----:   | :-----:                             |
  | Code4rena       | PoolTogether           |     15  |        |    1   |        | $476.00   |                                     |
  | CodeHawks       | Beedle                 |     33  |   2    |    2   |  5     | $130.69   |   QA+Gas Findings(21)              |
