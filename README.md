@@ -23,6 +23,7 @@ Security audits, findings, competitions, reviews, contributions, participations,
  |                 | TOTALS                 |         |  2     |  7     |   11    |     $2,823.26      |                             |
 
 ### October 2023 
- | Platform        | Project                | Ranked For Contest | High   | Medium | Low     | Earnings  | Notes                               |
- |  :-----:        | :-----:                |:-----:  |:-----: |:-----: |:-----: | :-----:   | :-----:                             |
- | Code4rena       | Canto                  |     23  |        |       |        | $87.00   |  A Grade QA + B Grade Gas|
+ | Platform        | Project                | Ranked For Contest | High   | Medium | Low     | Earnings  | Notes       |
+ |  :-----:        | :-----:                |:-----:             |:-----: |:-----: |:-----: | :-----:   | :-----:                             |
+ | Code4rena       | Canto                  |     23             |        |        |        | $87.00    |  A Grade QA + B Grade Gas|
+ | CodeHawks       | Ditto                  |                    |       |        |        |           |                |
