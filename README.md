@@ -25,4 +25,4 @@ Security audits, findings, competitions, reviews, contributions, participations,
 ### October 2023 
  | Platform        | Project                | Ranked For Contest | High   | Medium | Low     | Earnings  | Notes                               |
  |  :-----:        | :-----:                |:-----:  |:-----: |:-----: |:-----: | :-----:   | :-----:                             |
- | Code4rena       | Canto                  |     23  |        |    1   |        | $87.00   |  A Grade QA + B Grade Gas                                  |
+ | Code4rena       | Canto                  |     23  |        |       |        | $87.00   |  A Grade QA + B Grade Gas|
