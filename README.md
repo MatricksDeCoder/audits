@@ -26,4 +26,5 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | Platform        | Project                | Ranked For Contest | High   | Medium | Low     | Earnings  | Notes       |
  |  :-----:        | :-----:                |:-----:             |:-----: |:-----: |:-----: | :-----:   | :-----:                             |
  | Code4rena       | Canto                  |     23             |        |        |        | $87.00    |  A Grade QA + B Grade Gas|
+  | Code4rena       | ENS                  |     23             |        |        |        | $8.19    |  B Grade Gas|
  | CodeHawks       | Ditto                  |                    |       |        |        |           |                |
