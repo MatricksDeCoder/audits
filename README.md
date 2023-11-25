@@ -29,3 +29,4 @@ Security audits, findings, competitions, reviews, contributions, participations,
   | Code4rena       | ENS                   |                    |        |        |        | $8.19    |  B Grade Gas|
  | CodeHawks       | Ditto                  |      19            |        |   2    |        |    $612   |                |
 | Code4rena      | WildCat                 |                     |        |       |        |    $10   |       B Grade QA         |
+| CodeHawks      | SteadFi               |         39            |        |   1    |   3     |    $58   |               |
