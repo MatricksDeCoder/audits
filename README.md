@@ -30,3 +30,8 @@ Security audits, findings, competitions, reviews, contributions, participations,
  | CodeHawks       | Ditto                  |      19            |        |   2    |        |    $612   |                |
 | Code4rena      | WildCat                 |                     |        |       |        |    $10   |       B Grade QA         |
 | CodeHawks      | SteadFi               |         39            |        |   1    |   3     |    $58   |               |
+
+### February 2024 
+ | Platform        | Project                | Ranked For Contest | High   | Medium | Low     | Earnings  | Notes       |
+ |  :-----:        | :-----:                |:-----:             |:-----: |:-----: |:-----: | :-----:   | :-----:                             |
+ | Code4rena       | AI Areans              |     23             |        |     1   |        | $72.86    |   B Grade Gas|
