@@ -34,4 +34,4 @@ Security audits, findings, competitions, reviews, contributions, participations,
 ### February 2024 
  | Platform        | Project                | Ranked For Contest | High   | Medium | Low     | Earnings  | Notes       |
  |  :-----:        | :-----:                |:-----:             |:-----: |:-----: |:-----: | :-----:   | :-----:                             |
- | Code4rena       | AI Areans              |     76             |        |     1   |        | $72.86    |   B Grade Gas|
+ | Code4rena       | AI Arena              |     76             |        |     1   |        | $72.86    |   B Grade Gas|
